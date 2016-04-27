@@ -30,8 +30,8 @@
 				<configuration>
 					<deploymentType>cloudhub</deploymentType>
 					<muleVersion>3.7.2</muleVersion>
-					<username>yourUsername</username>
-					<password>yourPassword</password>
+					<username>joegaber3</username>
+					<password>KiLlaJ0e!</password>
 					<workerType>Micro</workerType>
 					<redeploy>true</redeploy>
 					<environment>Production</environment>
